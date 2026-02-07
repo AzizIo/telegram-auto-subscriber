@@ -28,8 +28,8 @@ init()
 
 CHATS_FILE = "chats.txt"
 SESSIONS_DIR = 'Sessions'
-API_ID = '2040'
-API_HASH = 'b18441a1ff607e10a989891a5462e627'
+API_ID = ''
+API_HASH = ''
 FOLDER_NAME = "Auto Subs"
 
 # ================== ТАЙМИНГИ ==================
@@ -292,3 +292,4 @@ async def main():
 
 if __name__ == "__main__":
     asyncio.run(main())
+
